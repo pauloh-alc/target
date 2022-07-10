@@ -9,8 +9,8 @@ Resolução de questões para processo seletivo de estágio na empresa target
 
 ### Para a execução do código fonte em C
     - Meus vídeos no Youtube explicando
- - Video - ambiente Linux  | [Accessar](https://youtu.be/df5H_qaXNIY) |  
- - Video - ambiente Windows | [Acessar](https://youtu.be/9uoF7OSySGY) |
+ - Vídeo - ambiente Linux  | [Acessar](https://youtu.be/df5H_qaXNIY) |  
+ - Vídeo - ambiente Windows | [Acessar](https://youtu.be/9uoF7OSySGY) |
  - Vídeo - processo de compilação | [Acessar](https://youtu.be/xPB-7X7MOU8) |
 
 1° - Você pode instalar o gcc com o seguinte comando:

@@ -76,10 +76,11 @@ int main (void) {
       sigla[i] = linha[i]; i+=1;
     }
     sigla[i] = '\0';
-
+    
     printf("%s - %.2f: %.2f%%\n",sigla, valor, valor * 100.0 / soma); // Saída de dados
   }
-
+  
+  fclose(arquivo);
  
   return 0;
 }
